@@ -1,0 +1,5 @@
+.terraform/
+.git/
+*.tfvars
+*.lock.hcl
+hosts.ini
